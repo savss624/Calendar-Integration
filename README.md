@@ -12,3 +12,5 @@ integration using django rest api. You need to use the OAuth2 mechanism to get u
 need to implement mechanism to get access_token from given
 code
     2. Once got the access_token get list of events in users calendar
+
+Note: Please Open the Link in a new tab in order to test it :)
